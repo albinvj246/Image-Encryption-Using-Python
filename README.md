@@ -1,4 +1,4 @@
-# PRODIGY_CS_02
+
 Pixel manipulation for image encryption using Python (IDLE).
 
 Building a simple image encryption tool with pixel manipulation might be a fascinating job! We can process images using Python and libraries such as PIL (Python Imaging Library).
